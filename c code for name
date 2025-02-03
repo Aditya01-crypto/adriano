@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main
+{
+  char name;
+  printf("enter you name");
+  scanf("%d",&name);
+printf("your name",name);
+return 0
+  }
